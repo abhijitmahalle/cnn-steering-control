@@ -1,5 +1,7 @@
 # Steering control using CNN
-This repository contains code to train a car to steer using Convolutional Neural Network (CNN). The simulator used to collect the trainind data and test the model is Udacity's self-driving car simulator. This was the term-end project for the ENPM690-Robot Learning course
+This repository contains code to train a car to steer using Convolutional Neural Network (CNN). The simulator used to collect the trainind data and test the model is Udacity's self-driving car simulator. This was the term-end project for the ENPM690-Robot Learning course.
+
+The car was driven 
 
 ## Udacity' self-driving car simulator
 <p align="center">
@@ -15,7 +17,7 @@ This repository contains code to train a car to steer using Convolutional Neural
 2. OpenCV
 
 ## Instructions to run the code:
-Download the code file and upload it in Google Colab to run it.
+Download the folder and upload it in Google Colab to run it.
 
 ## Output
 <p align="center">
