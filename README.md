@@ -30,11 +30,14 @@ Initially, the car was trained to steer using the above architecture. However, t
 <p align="center">
 We added Maxpooling layers in the original architecture and the performance improved. The simulator uses a simple PI controller to control the steering action. 
 
+## Programming Language
+Python
+  
 ## Required libraries
 1. PyTorch
 2. OpenCV
 
-## Instructions to run the code:
+## Instructions to run the code
 Download the folder and upload it in Google Colab to run it.
 
 ## Output
@@ -45,7 +48,7 @@ Download the folder and upload it in Google Colab to run it.
 ## Video Link
 https://www.youtube.com/watch?v=kxRWDSFM-yQ&t=3s
 
-## Hyperparameters
+## Hyper-parameters
 * Sample size: 24111 
   - Training size: 19288, Validation size: 4823
 * Batch size: 32
