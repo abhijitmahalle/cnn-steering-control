@@ -30,10 +30,10 @@ Initially, the car was trained to steer using the above architecture. However, t
 <p align="center">
 We added Maxpooling layers in the original architecture and the performance improved. The simulator uses a simple PI controller to control the steering action. 
 
-## Programming Language
-Python
+## Requirement:
+Python 2.0 or above
   
-## Required libraries
+## Dependencies:
 1. PyTorch
 2. OpenCV
 
